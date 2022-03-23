@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "devopsaspirants" 
+MAINTAINER "devops" 
 COPY ./webapp.war /usr/local/tomcat/webapps
